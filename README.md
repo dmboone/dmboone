@@ -6,7 +6,7 @@ I recently graduated from Clemson University with a B.S. in Computer Science and
 a software developer. I’m currently interested in front end development with an eye towards eventually becoming a full stack developer.
 Take a look around and see what I've been currently learning here on Github!
 
-Vist my website at [https://destinyboone.com](destinybooone.com) to learn more about me and to see some of my coding projects as well as my art!
+Vist my website at [destinyboone.com](https://destinybooone.com) to learn more about me and to see some of my coding projects as well as my art!
 Also feel free to connect with me on my [Linkedin](https://www.linkedin.com/in/destiny-boone-18010b176/)
 
 <!---
